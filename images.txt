@@ -1,1 +1,2 @@
-gitlab/gitlab-ce:latest
+lewangdev/folotoy-server:latest
+emqx/emqx:latest
