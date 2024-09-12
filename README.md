@@ -1,3 +1,7 @@
+$ docker login --username=dedo****@163.com registry.cn-shanghai.aliyuncs.com
+$ docker pull registry.cn-shanghai.aliyuncs.com/mjyun/xxx:[镜像版本号]
+
+
 # Docker Images Pusher
 
 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用<br>
