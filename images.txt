@@ -1,1 +1,1 @@
-thingsboard/tb-postgres
+apache/zeppelin:0.10.0
