@@ -1,1 +1,1 @@
-influxdb:2.7
+emqx/emqx:5.8.4
